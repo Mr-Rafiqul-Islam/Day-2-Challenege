@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+ul, ol{
+    list-style: none;
+}
+
+/* ======global css end here===== */
+
+.header{
+    margin: 0 auto;
+    padding: 30px;
+    background-color: tomato;
+    text-align: center;
+
+}
+.header h1{
+    text-transform: uppercase;
+    font-size: 40px;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+}
+.banner{
+    width: 1183px;
+    margin: 25px auto;
+}
+.row{
+    width: 100%;
+    margin: 0 auto;
+}
+.col1{
+    width: 45%;
+    margin-right: 5px;
+    float: left;
+    padding-top:100px ;
+    
+}
+.col1 h1{
+    font-size: 30px;
+    font-family: 'Orbitron', sans-serif;
+
+}
+.col1 p{
+    margin-top: 10px;
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 500;
+    color: #223140;
+}
+.col2{
+    width: 50%;
+    margin-left: 5px;
+    float: left;
+}
+.btn {
+    background: #1361F5;
+    color: #FFFFFF;
+    margin-right: 5px;
+    padding: 12px 90px;
+    font-size: 16px;
+    line-height: 24px;
+}
+.buton{
+    margin-top:50px;
+}
+
